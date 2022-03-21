@@ -8,8 +8,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #333333;
-    background: linear-gradient(to right, #dd1818, #333333);
+ 
     overflow: hidden;
     margin: 0;
     padding: 20px;
